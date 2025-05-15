@@ -7,11 +7,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
-
   - [Built with](#built-with)
-
 - [Author](#author)
 
 ## Overview
@@ -25,11 +22,6 @@ Users should be able to:
 ### Screenshot
 
 ![](./assets/images/scr.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
